@@ -59,3 +59,4 @@ Source: https://developersbreach.com/convolution-neural-network-deep-learning/
 - Random forest
 - XGBoost
 - CNN with continuous output (combine part I and II together)
+This project is ongoing
