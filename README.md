@@ -37,3 +37,7 @@ Source: https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php
 <img src="https://i0.wp.com/developersbreach.com/wp-content/uploads/2020/08/cnn_banner.png?fit=1200%2C564&ssl=1" width="750" align="center">
 
 Source: https://developersbreach.com/convolution-neural-network-deep-learning/
+
+# Summary plots of Insurance_company in train and test dataset
+![image](https://user-images.githubusercontent.com/72156683/157354377-a5f29d31-76d7-40f5-b900-159fa3193bc4.png)
+
