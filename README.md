@@ -56,4 +56,4 @@ Source: https://developersbreach.com/convolution-neural-network-deep-learning/
 ## Possible Solutions
 - Random forest
 - XGBoost
-- CNN with continuous output
+- CNN with continuous output (combine part I and II together)
