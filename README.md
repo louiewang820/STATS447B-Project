@@ -9,7 +9,7 @@
 * Filters in the next layer detect shapes
 * Filters in the last layer detect collection of shapes
 * Filter values randomly initialized, learned by learning algorithm
-* convolutional layer 
+
 
 <img src="https://miro.medium.com/max/700/0*opZllXHxr_539y6K.gif" width="750" align="center">
 
