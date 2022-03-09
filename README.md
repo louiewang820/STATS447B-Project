@@ -41,3 +41,6 @@ Source: https://developersbreach.com/convolution-neural-network-deep-learning/
 # Summary plots of Insurance_company in train and test dataset
 ![image](https://user-images.githubusercontent.com/72156683/157354377-a5f29d31-76d7-40f5-b900-159fa3193bc4.png)
 
+# Data augumentation
+![image](https://user-images.githubusercontent.com/72156683/157355019-6b989c06-ba28-4761-ad29-a506d6848b82.png)
+
