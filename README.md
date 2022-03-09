@@ -43,6 +43,8 @@ Source: https://developersbreach.com/convolution-neural-network-deep-learning/
 
 # Data augumentation
 * Our data set is imbalanced
+* We need more images of undamaged cars
+* augment each image twelve times
 ![image](https://user-images.githubusercontent.com/72156683/157355019-6b989c06-ba28-4761-ad29-a506d6848b82.png)
 
 # Wrangling of Variables and Transformations
