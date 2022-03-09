@@ -1,7 +1,7 @@
 # STATS447B-Project
 ##  Prediction on insurance claim of cars
-* Image identification of damaged cars
-* Prediction on claim of damaged cars 
+* Part I: Image identification of damaged cars 
+* Part II: Prediction on claim of damaged cars 
 # convolutional neural network
 * A typical CNN has several convolution plus pooling layers and fully connected layers in the end 
 * Each responsible for feature extraction at different levels of abstraction
