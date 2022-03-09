@@ -44,3 +44,15 @@ Source: https://developersbreach.com/convolution-neural-network-deep-learning/
 # Data augumentation
 ![image](https://user-images.githubusercontent.com/72156683/157355019-6b989c06-ba28-4761-ad29-a506d6848b82.png)
 
+# Wrangling of Variables and Transformations
+## Can we do a regression for continous response variable Amount?
+- Are any of the features useful in estimating Amount?
+![image](https://user-images.githubusercontent.com/72156683/157355266-725c6173-c942-4382-a5e7-d0b37da46164.png)
+- No clear relationships with Amount. 
+- Cost of Vehicle and Min Coverage looks identical
+- Interesting distribution of Max Coverage
+![image](https://user-images.githubusercontent.com/72156683/157355329-8e6168cc-dca7-45cd-afce-9c0c27792527.png)
+## Possible Solutions
+- Random forest
+- XGBoost
+- CNN with continuous output
