@@ -1,7 +1,12 @@
 # STATS447B-Project
 ## Problem Statement
-I apply deep learning skills to build a CNN model that predicts the insurance claim of the cars that are provided in the dataset.
-
+You have been hired as a Machine Learning expert by a leading car insurance company. Your task is to predict the insurance claim of the cars that are provided in the dataset.
+• Condition: Predict if the vehicle provided in the image is damaged or not
+• Amount: Based on the condition of a vehicle, predict the insurance amount of the cars that are provided in the dataset
+source: https://www.hackerearth.com/en-us/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/
+## Abstract
+I apply deep learning skills to build a CNN model that predicts the insurance claim of the cars that are provided in the dataset. I have achieved test accuracy 
+above 90% for image identification of damaged cars.
 ##  Prediction on insurance claim of cars
 * Part I: Image identification of damaged cars 
 * Part II: Prediction on claim of damaged cars 
