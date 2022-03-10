@@ -1,5 +1,5 @@
 # STATS447B-Project
-# Problem Statement
+## Problem Statement
 * Vehicle insurance is insurance for cars, trucks, motorcycles, and other road vehicles. Its main purpose is to
 * provide financial protection against the following:
 
@@ -10,7 +10,7 @@ Vehicle insurance may additionally offer financial protection against theft of t
 ##  Prediction on insurance claim of cars
 * Part I: Image identification of damaged cars 
 * Part II: Prediction on claim of damaged cars 
-# convolutional neural network
+## convolutional neural network
 * A typical CNN has several convolution plus pooling layers and fully connected layers in the end 
 * Each responsible for feature extraction at different levels of abstraction
 * Filters in first layer detect horizental, vertical, and diagonal edges
@@ -46,7 +46,7 @@ Source: https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php
 
 Source: https://developersbreach.com/convolution-neural-network-deep-learning/
 
-# Summary plots of Insurance_company in train and test dataset
+## Summary plots of Insurance_company in train and test dataset
 ![image](https://user-images.githubusercontent.com/72156683/157354377-a5f29d31-76d7-40f5-b900-159fa3193bc4.png)
 
 # Data augumentation
@@ -55,15 +55,15 @@ Source: https://developersbreach.com/convolution-neural-network-deep-learning/
 * augment each image twelve times
 ![image](https://user-images.githubusercontent.com/72156683/157355019-6b989c06-ba28-4761-ad29-a506d6848b82.png)
 
-# Wrangling of Variables and Transformations
-## Can we do a regression for continous response variable Amount?
+## Wrangling of Variables and Transformations
+### Can we do a regression for continous response variable Amount?
 - Are any of the features useful in estimating Amount?
 ![image](https://user-images.githubusercontent.com/72156683/157355266-725c6173-c942-4382-a5e7-d0b37da46164.png)
 - No clear relationships with Amount. 
 - Cost of Vehicle and Min Coverage looks identical
 - Interesting distribution of Max Coverage
 ![image](https://user-images.githubusercontent.com/72156683/157355329-8e6168cc-dca7-45cd-afce-9c0c27792527.png)
-## Possible Solutions
+### Possible Solutions
 - Random forest
 - XGBoost
 - CNN with continuous output (combine part I and II together)
