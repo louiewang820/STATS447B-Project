@@ -1,4 +1,12 @@
 # STATS447B-Project
+# Problem Statement
+* Vehicle insurance is insurance for cars, trucks, motorcycles, and other road vehicles. Its main purpose is to
+* provide financial protection against the following:
+
+Physical damage or bodily injury caused by traffic collisions
+Liability that could arise from incidents in a vehicle
+Vehicle insurance may additionally offer financial protection against theft of the vehicle and against damage to the vehicle sustained because of events other than traffic collisions such as keying, weather, or natural disasters, and damage sustained by colliding with stationary objects.
+
 ##  Prediction on insurance claim of cars
 * Part I: Image identification of damaged cars 
 * Part II: Prediction on claim of damaged cars 
